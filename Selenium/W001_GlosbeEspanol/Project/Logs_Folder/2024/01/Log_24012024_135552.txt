@@ -1,0 +1,1 @@
+INFO: 01/24/2024 01:55:52 df_config method fails - [Errno 2] No such file or directory: 'C:\\Users\\mwojcik\\OneDrive - Sopra Steria\\Desktop\\SopraSteria\\Python\\MyProjects\\Selenium\\W001_GlosbeEspanol\\Project\\Config\\Config2.xlsx'

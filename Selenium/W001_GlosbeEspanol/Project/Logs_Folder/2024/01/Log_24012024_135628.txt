@@ -1,0 +1,6 @@
+INFO: 01/24/2024 01:56:28 Method process_preparation started
+INFO: 01/24/2024 01:56:29 QUEUE: Items added to Queue - 1
+INFO: 01/24/2024 01:56:29 QUEUE: Item started - barrer_24012024
+INFO: 01/24/2024 01:56:34 QUEUE: Item status updated - error
+INFO: 01/24/2024 01:56:36 QUEUE: No items in Queue
+INFO: 01/24/2024 01:56:36 Time - 0:00:08

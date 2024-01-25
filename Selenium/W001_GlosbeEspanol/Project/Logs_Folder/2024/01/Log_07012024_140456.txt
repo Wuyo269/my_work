@@ -1,0 +1,1 @@
+INFO: 01/07/2024 02:04:57 Method 'upgrade_config_file' fails - name 'INPUT_FOLDER_PATH' is not defined

@@ -1,0 +1,2 @@
+INFO: 01/16/2024 05:36:17 df_config method fails - [Errno 2] No such file or directory: 'C:\\Users\\mwojcik\\OneDrive - Sopra Steria\\Desktop\\SopraSteria\\Python\\tensorEnv\\Selenium\\S006_FlashScoreBet\\Config\\Config2.xlsx'
+INFO: 01/16/2024 05:36:17 Main: Unexpected error- 'df_config method fails - [Errno 2] No such file or directory: 'C:\\Users\\mwojcik\\OneDrive - Sopra Steria\\Desktop\\SopraSteria\\Python\\tensorEnv\\Selenium\\S006_FlashScoreBet\\Config\\Config2.xlsx''
